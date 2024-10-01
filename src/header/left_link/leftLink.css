@@ -1,0 +1,26 @@
+.background-color-anchors {
+    color: #000000;
+    
+  }
+
+  .leftLink-style{
+    margin: auto 0;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18.2px;
+    letter-spacing: normal;
+    text-decoration: none;
+  }
+
+  .container-left-link{
+    display: flex;
+    gap: calc(20px + 16*(100vw - 768px) / 672);
+    color: #000;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 18.2px; /* 130% */
+  }

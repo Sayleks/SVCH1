@@ -1,0 +1,138 @@
+
+#section-thrid {
+  background-color: #faf9f6;
+  /* margin-bottom: 60px; */
+}
+
+.section-thrid-card {
+  max-width: 359px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.section-thrid-card img {
+  display: block;
+  margin: auto;
+  margin-bottom: 31px;
+  width: 100%;
+  height: auto;
+}
+
+.section-thrid-card h4 {
+  color: #6f1eaa;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 31.68px;
+  /* 132% */
+  margin-bottom: 11px;
+}
+
+.section-thrid-card p {
+  color: #000;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22.72px;
+  /* 142% */
+  max-width: 357px;
+  margin: 0 auto;
+}
+
+#section-thrid-card-container {
+  margin-bottom: 65px;
+  column-gap: 10px;
+  row-gap: 40px;
+  flex-wrap: wrap;
+}
+.section-thrid-card p {
+  color: #000;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22.72px;
+  /* 142% */
+  max-width: 357px;
+  margin: 0 auto;
+}
+
+#section-thrid-card-container {
+  margin-bottom: 65px;
+  column-gap: 10px;
+  row-gap: 40px;
+  flex-wrap: wrap;
+}
+.section-thrid-card {
+  max-width: 359px;
+}
+
+.section-thrid-card img {
+  display: block;
+  margin: auto;
+  margin-bottom: 31px;
+  width: 100%;
+  height: auto;
+}
+.section-thrid-card h4 {
+  color: #6f1eaa;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 31.68px;
+  /* 132% */
+  margin-bottom: 11px;
+}
+
+.section-thrid-card p {
+  color: #000;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22.72px;
+  /* 142% */
+  max-width: 357px;
+  margin: 0 auto;
+}
+
+#section-thrid-card-container {
+  margin-bottom: 65px;
+  column-gap: 10px;
+  row-gap: 40px;
+  flex-wrap: wrap;
+}
+#section-thrid-button {
+  width: 166px;
+  height: 48px;
+  flex-shrink: 0;
+  border-radius: 24px;
+  background: #6f1eaa;
+  margin-bottom: 60px;
+  
+}
+
+#section-thrid-button span {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 19px;
+
+  /* 118.75% */
+}
+
+.flex-box-between {
+  display: flex;
+  justify-content: space-between;
+}

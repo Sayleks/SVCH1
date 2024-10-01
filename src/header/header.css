@@ -1,0 +1,42 @@
+.central-nameCompany {
+    
+    text-align: center;
+  
+  }
+
+  .central-nameCompany h1{
+    width: 123.93px;
+height: 30.56px;
+
+opacity: 0px;
+color: #F5A61C;
+
+
+  }
+
+  header {
+    max-width: 1440px;
+    
+  }
+
+  .header-container {
+    max-height: 70px;
+    margin: 18px auto;
+    max-width: 1220px;
+    display: grid;
+    grid-template-columns: 33.333% 33.333% 33.333%;
+  }
+
+  .header-container {
+    max-height: 70px;
+    margin: 18px auto;
+    max-width: 1220px;
+    display: flex;
+    justify-content: space-between;
+    align-items:space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+    left: 110px;
+  }
+  
+  

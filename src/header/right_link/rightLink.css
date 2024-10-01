@@ -1,0 +1,37 @@
+.background-color-anchors {
+    color: #000000;align-items:center;
+
+  }
+
+
+  .header-container-link {
+    margin: auto 0;
+    display: flex;
+    font-size: 12px;
+    
+  }
+
+  .header-container-link-right {
+    gap: 14px;
+  }
+  .lng-about{color: #6F1EAA;
+    text-decoration: none;align-content: center;color: #6F1EAA;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18.2px; /* 130% */}
+  .lng-login{color: #ffffff;
+    text-decoration: none;border-radius: 19px;
+    text-align: center;
+    align-content: center;
+    background: #6F1EAA;width: 150px;
+    height: 38px;
+    flex-shrink: 0;color: #FFF;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 18.2px; /* 130% */}
+    
+  
